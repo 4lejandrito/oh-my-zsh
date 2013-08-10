@@ -12,18 +12,18 @@ You can install this via the command line with either `curl` or `wget`.
 
 h4. via `curl`
 
-@curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh@
+@curl -L https://github.com/4lejandrito/oh-my-zsh/raw/master/tools/install.sh | sh@
 
 h4. via `wget`
 
-@wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh@
+@wget --no-check-certificate https://github.com/4lejandrito/oh-my-zsh/raw/master/tools/install.sh -O - | sh@
 
 h3. The manual way
 
 
 1. Clone the repository
 
-  @git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh@
+  @git clone git://github.com/4lejandrito/oh-my-zsh.git ~/.oh-my-zsh@
 
 2. *OPTIONAL* Backup your existing ~/.zshrc file
 
@@ -92,6 +92,6 @@ h2. Contributors
 
 This project wouldn't exist without all of our awesome users and contributors.
 
-* "View our growing list of contributors":https://github.com/robbyrussell/oh-my-zsh/contributors
+* "View our growing list of contributors":https://github.com/4lejandrito/oh-my-zsh/contributors
 
 Thank you so much!
